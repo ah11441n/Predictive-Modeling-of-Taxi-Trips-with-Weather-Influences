@@ -1,4 +1,4 @@
-# Weather and Yellow Taxi Trip Data Analysis
+# Predictive Modeling of Taxi Trips with Weather Influences
 
 ## Overview
 
