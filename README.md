@@ -1,4 +1,4 @@
-# Weather and Yellow Taxi Trip Data Analysis
+# Predictive Modeling of Taxi Trips with Weather Influences
 
 ## Overview
 
@@ -81,5 +81,10 @@ This repository contains the analysis and prediction models built using weather 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the following terms:
+
+You are permitted to view and read the source code for personal, educational, or research purposes only. You may not copy, modify, distribute, or use the code for commercial purposes without prior written permission from the author.
+
+
+
 
